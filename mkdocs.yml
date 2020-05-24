@@ -4,3 +4,4 @@ theme:
 markdown_extensions:
   - codehilite
 repo_url: https://github.com/paramsingh/regex-commenter-bot
+site_url: https://regex-commenter.github.io
