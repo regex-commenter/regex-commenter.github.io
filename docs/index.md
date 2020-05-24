@@ -44,8 +44,9 @@ def DANGEROUSLY_do_something():
     bring_down_everything()
 ```
 
-TODO: add screenshot
+![](./assets/images/dangerous_code.png)
+
 
 ### Tag code owners for easy code review
 
-login
+![](./assets/images/owner.png)
