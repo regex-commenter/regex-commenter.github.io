@@ -1,0 +1,6 @@
+site_name: regex-commenter
+theme:
+  name: material
+markdown_extensions:
+  - codehilite
+repo_url: https://github.com/paramsingh/regex-commenter-bot
