@@ -8,7 +8,7 @@ requests to your repository.
 
 ## Configuration
 
-Install the app and add a `regex-commenter-config.yaml` to the `.github` directory in your repository.
+[Install the app](https://github.com/apps/regex-commenter) and add a `regex-commenter-config.yaml` to the `.github` directory in your repository.
 
 Here's an example configuration.
 
