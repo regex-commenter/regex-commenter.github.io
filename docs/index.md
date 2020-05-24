@@ -41,7 +41,7 @@ matches:
 
 ### Monitor for uses of dangerous functions
 
-```
+```py
 def DANGEROUSLY_do_something():
     bring_down_everything()
 ```
