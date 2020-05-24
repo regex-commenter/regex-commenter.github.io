@@ -37,6 +37,8 @@ matches:
 
 ### Check for antipatterns like pylint-disable, ts-ignore etc.
 
+![pylint disable example screenshot](img/pylint-disable.png)
+
 ### Monitor for uses of dangerous functions
 
 ```
@@ -44,9 +46,9 @@ def DANGEROUSLY_do_something():
     bring_down_everything()
 ```
 
-![](./assets/images/dangerous_code.png)
+![monitoring dangerous function screenshot](img/dangerous_code.png)
 
 
 ### Tag code owners for easy code review
 
-![](./assets/images/owner.png)
+![log level owner comment screenshot](img/owner.png)
